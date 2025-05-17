@@ -15,5 +15,11 @@ setup(
     description="File encryption/decryption tool",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://t.me/TEAM_X_OG",
+    url="https://t.me/team_x_og",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires=">=3.6",
 )
